@@ -39,17 +39,6 @@
 
 <br/>
 
-
-<br/>
-<hr/>
-<br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveen-rajes&show_icons=true&locale=en&layout=compact" alt="praveen-rajes" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen-rajes&show_icons=true&locale=en" alt="praveen-rajes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveen-rajes&" alt="praveen-rajes" /></p>
-  <br/>
 </a>
 
 
