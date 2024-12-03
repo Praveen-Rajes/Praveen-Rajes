@@ -1,5 +1,5 @@
 <h3 >
-        <samp>&gt; Hey There!, I am
-                <b>Jp</b>
+        <samp>&gt; I’m a Perceptron fan and data nerd
+                
         </samp>
 </h3>
