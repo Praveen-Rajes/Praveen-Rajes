@@ -1,5 +1,5 @@
 <h6 >
-        <samp>&gt; data nerd 🧠⚡
+        <samp>&gt; 
         
        
 </h6>
